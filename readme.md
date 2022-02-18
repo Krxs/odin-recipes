@@ -1,0 +1,1 @@
+This project will require basic html skills to build a simple site that will be made better later with CSS
